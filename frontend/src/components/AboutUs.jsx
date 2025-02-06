@@ -20,7 +20,7 @@ export default function Component() {
                             className="mx-auto max-w-4xl text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-2xl/relaxed "
                             style={{ color: "black" }}
                         >
-                            At Annamitra, we are on a mission to combat hunger
+                            At Meal Connect, we are on a mission to combat hunger
                             and food insecurity in our communities. Founded with
                             a deep-rooted commitment to making a meaningful
                             difference in the lives of others, Annamitra strives
@@ -161,7 +161,7 @@ export default function Component() {
                             className="mx-auto max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-2xl/relaxed dark:text-gray-400"
                             style={{ color: "black" }}
                         >
-                            At Annamitra, our values guide our actions and
+                            At Meal Connect, our values guide our actions and
                             decisions every step of the way. <br /> We believe
                             in:
                             <br />

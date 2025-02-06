@@ -79,7 +79,7 @@ export default function Footer() {
                     </ul>
                 </div>
             </div>
-            <div className="part4">&#169; CopyRights Reserved 2024</div>
+            <div className="part4">&#169; CopyRights Reserved 2025</div>
         </div>
     );
 }

@@ -51,95 +51,43 @@ export default function Component() {
                     </div>
                     <div className="flex items-center justify-between w-full min-w-[800px] grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8 md:gap-6">
                         <div className="flex flex-col gap-4 items-center justify-center">
-                            <img
-                                alt="User"
-                                className="mx-auto rounded-full overflow-hidden object-cover object-center border-2 border-gray-100 w-28 h-38 dark:border-gray-850"
-                                src="/assets/images/Krish.jpeg"
-                            />
+                          
                             <div className="flex flex-col gap-2">
                                 <h3 className="text-xl font-semibold">
-                                    Krish Agarwal
+                                   Ketki Lonare
                                 </h3>
                                 <p className="text-sm text-[#354e41] font-semibold flex items-center">
-                                    Web Developer
+                                 Full stack   Full stack   Web Developer
                                     <a
                                         href="https://www.linkedin.com/in/krish-16-agarwal/"
                                         className="ml-2"
                                     >
-                                        <img
-                                            className="linkedin-icon"
-                                            src="../public/assets/images/linkedin_svg.svg"
-                                            alt="LinkedIn Profile"
-                                            style={{
-                                                width: "22px",
-                                                height: "22px",
-                                                border: "2px solid #354e41",
-                                                borderRadius: "4px",
-                                            }}
-                                        />
+                                       
                                     </a>
                                 </p>
                             </div>
                         </div>
                         <div className="flex flex-col gap-4 items-center justify-center">
-                            <img
-                                alt="User"
-                                className="mx-auto rounded-full overflow-hidden object-cover object-center border-2 border-gray-100 w-28 h-38 dark:border-gray-850"
-                                src="/assets/images/Aafaque.jpg"
-                            />
+                           
                             <div className="flex flex-col gap-2">
                                 <h3 className="text-xl font-semibold">
-                                    Md. Aafaque Tabish
+                                    Somesh Awchat
                                 </h3>
                                 <p className="text-sm text-[#354e41] font-semibold flex items-center">
-                                    Web Developer
-                                    <a
-                                        href="https://www.linkedin.com/in/md-aafaque-tabish/"
-                                        className="ml-2"
-                                    >
-                                        <img
-                                            className="linkedin-icon"
-                                            src="../public/assets/images/linkedin_svg.svg"
-                                            alt="LinkedIn Profile"
-                                            style={{
-                                                width: "22px",
-                                                height: "22px",
-                                                border: "2px solid #354e41",
-                                                borderRadius: "4px",
-                                            }}
-                                        />
-                                    </a>
+                                    Full stack   Web Developer
+                                  
                                 </p>
                             </div>
                         </div>
                         <div className="flex flex-col gap-4 items-center justify-center">
-                            <img
-                                alt="User"
-                                className="mx-auto rounded-full overflow-hidden object-cover object-center border-2 border-gray-100 w-28 h-38  dark:border-gray-850"
-                                src="/assets/images/Aniket.jpeg"
-                            />
+                           
                             <div className="flex flex-col gap-2">
                                 <h3 className="text-xl font-semibold">
-                                    Aniket Arya
+                                    Nehal Kubade
                                 </h3>
                                 <p className="text-sm text-[#354e41] font-semibold flex items-center">
-                                    Content-Creator
-                                    <a
-                                        href="https://www.linkedin.com/in/aniket-arya-b89bb325a/"
-                                        className="ml-2"
-                                    >
-                                        <img
-                                            className="linkedin-icon"
-                                            src="../public/assets/images/linkedin_svg.svg"
-                                            alt="LinkedIn Profile"
-                                            style={{
-                                                width: "22px",
-                                                height: "22px",
-                                                border: "2px solid #354e41",
-                                                borderRadius: "4px",
-                                            }}
-                                        />
-                                    </a>
+                                Full stack   Web Developer
+                                  
                                 </p>
                             </div>
                         </div>
